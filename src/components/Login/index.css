@@ -1,0 +1,12 @@
+.login-head {
+  font-family: "Sans serif";
+  font-size: 24px;
+  
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* min-height: 100vh; */
+}
